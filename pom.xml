@@ -2,5 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
-  <version>1</version>
+  <version>1</version><repositories>
+    <repository>
+        <id>myartifactory</id>
+        <url>http://myartifactory/artifactory/simple/</url>
+    </repository>
+</repositories>
+  
 </project>
